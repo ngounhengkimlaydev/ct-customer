@@ -1,5 +1,5 @@
 <template>
-  <div class=" space-y-3  mx-auto">
+  <div class=" space-y-3 ">
     <!-- Header -->
     <WelcomeHero />
 

@@ -12,9 +12,9 @@
             </div>
 
             <div class="flex gap-3">
-                <UButton icon="i-lucide-plus" label="Create Website" />
+                <!-- <UButton icon="i-lucide-plus" label="Create Website" /> -->
 
-                <UButton icon="i-lucide-github" color="neutral" variant="outline" label="Import Git" />
+                <!-- <UButton icon="i-lucide-github" color="neutral" variant="outline" label="Import Git" /> -->
             </div>
         </div>
     </UCard>

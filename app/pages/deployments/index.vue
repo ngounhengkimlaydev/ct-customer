@@ -14,7 +14,7 @@
                 </UButton>
 
                 <UButton icon="i-lucide-rocket" to="/deployments/git">
-                    New Deploy
+                    Import Project
                 </UButton>
             </div>
         </div>
