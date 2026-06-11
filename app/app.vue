@@ -10,14 +10,14 @@ useHead({
     { key: 'theme-color', name: 'theme-color', content: color }
   ],
   link: [
-    { rel: 'icon', href: '/favicon.svg' }
+    { rel: 'icon', href: '/favicon.ico' }
   ],
   htmlAttrs: {
     lang: 'en'
   }
 })
 
-const title = 'Nexora Dashboard Template'
+const title = 'CTC Infra.'
 
 useSeoMeta({
   title,
